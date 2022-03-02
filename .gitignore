@@ -1,0 +1,4 @@
+allure-results
+junit.xml
+node_modules
+**/.DS_Store
